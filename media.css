@@ -56,7 +56,8 @@ main {
 
 .btn-main{
     align-items: center;
-    padding: 10px 25px;
+    padding: 10px 25px;  
+    max-width: 50%;
 
 }
 
